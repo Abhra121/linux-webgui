@@ -1,5 +1,5 @@
 {
-    "name": "raspap/raspap-webgui",
+    "name": "linux-webgui",
     "description": "Simple wireless AP setup and mangement for Debian-based devices",
     "license": "GPL-3.0",
     "homepage": "https://raspap.com/",
