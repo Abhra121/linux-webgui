@@ -43,7 +43,7 @@ require_once 'includes/sysstats.php';
 require_once 'includes/configure_client.php';
 require_once 'includes/networking.php';
 require_once 'includes/data_usage.php';
-require_once 'includes/about.php';
+//require_once 'includes/about.php';
 require_once 'includes/openvpn.php';
 require_once 'includes/wireguard.php';
 require_once 'includes/provider.php';
