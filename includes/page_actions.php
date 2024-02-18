@@ -45,9 +45,9 @@
         case "/system_info":
             DisplaySystem($extraFooterScripts);
             break;
-        //case "/about":
-        //    DisplayAbout();
-        //    break;
+        case "/about":
+            DisplayAbout();
+            break;
         default:
             DisplayDashboard($extraFooterScripts);
         }
